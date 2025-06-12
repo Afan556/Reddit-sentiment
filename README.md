@@ -79,3 +79,56 @@ This project analyzes Reddit posts from mental health-related subreddits such as
 
 ## 📁 Project Structure
 
+ reddit-mental-health-nlp
+├── scraped_data/
+│ └── reddit_depression_posts.csv
+├── notebooks/
+│ ├── sentiment_analysis.ipynb
+│ ├── trend_analysis.ipynb
+│ └── topic_modeling.ipynb
+├── visuals/
+│ ├── sentiment_trend.png
+│ └── wordcloud_negative.png
+├── dashboard/
+│ └── streamlit_app.py (optional)
+├── README.md
+└── requirements.txt
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repository
+2. Install dependencies:
+
+---
+
+## 🤝 Contributions
+
+This project is open for:
+- Adding more subreddits and posts
+- Deeper topic modeling with BERTopic
+- Deploying an interactive web app for NGOs or universities
+
+---
+
+## ⚠️ Disclaimer
+
+This project is for **educational and research purposes only**.  
+It is **not a substitute for professional mental health care** or clinical tools.
+
+---
+
+## 🧑‍💻 Author
+
+Afan Hafeez
+_Data Analyst & NLP Explorer_  
+[GitHub](https://github.com/) • [LinkedIn](https://linkedin.com/in/yourprofile)
+
+---
+
+## ⭐️ If you find this project insightful...
+
+Don’t forget to **star** ⭐ it and share!  
+Your support helps bring more awareness to mental health through data.
+
